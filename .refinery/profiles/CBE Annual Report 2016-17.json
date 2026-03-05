@@ -1,0 +1,13 @@
+{
+  "origin_type": "native_digital",
+  "layout_complexity": "multi_column",
+  "domain_hint": "financial",
+  "suggested_strategy": "B",
+  "metadata": {
+    "char_density": 0.002209687174374415,
+    "image_to_page_ratio": 0.30332208102958386,
+    "font_count": 10.0,
+    "page_count": 147.0,
+    "file_size_mb": 51.84358024597168
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "origin_type": "native_digital",
+  "layout_complexity": "multi_column",
+  "domain_hint": "legal",
+  "suggested_strategy": "B",
+  "metadata": {
+    "char_density": 0.004363439134697438,
+    "image_to_page_ratio": 0.6427774353529216,
+    "font_count": 19.0,
+    "page_count": 24.0,
+    "file_size_mb": 5.443918228149414
+  }
+}

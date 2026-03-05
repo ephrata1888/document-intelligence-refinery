@@ -1,0 +1,13 @@
+{
+  "origin_type": "native_digital",
+  "layout_complexity": "table_heavy",
+  "domain_hint": "general",
+  "suggested_strategy": "B",
+  "metadata": {
+    "char_density": 0.0030934343434343434,
+    "image_to_page_ratio": 0.08001310109265493,
+    "font_count": 20.0,
+    "page_count": 13.0,
+    "file_size_mb": 0.8838348388671875
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "origin_type": "scanned_image",
+  "layout_complexity": "single_column",
+  "domain_hint": "general",
+  "suggested_strategy": "C",
+  "metadata": {
+    "char_density": 0.0,
+    "image_to_page_ratio": 1.0,
+    "font_count": 0.0,
+    "page_count": 3.0,
+    "file_size_mb": 1.0577707290649414
+  }
+}

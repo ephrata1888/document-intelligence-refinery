@@ -1,0 +1,13 @@
+{
+  "origin_type": "mixed",
+  "layout_complexity": "table_heavy",
+  "domain_hint": "general",
+  "suggested_strategy": "B",
+  "metadata": {
+    "char_density": 0.0004326837103850846,
+    "image_to_page_ratio": 0.4849119004703418,
+    "font_count": 3.0,
+    "page_count": 15.0,
+    "file_size_mb": 1.3772659301757812
+  }
+}
