@@ -1,0 +1,14 @@
+[project]
+name = "document-intelligence-refinery"
+version = "0.1.0"
+description = "Multi-stage agentic document intelligence pipeline"
+authors = [{ name="Ephrata Wolde" }]
+requires-python = ">=3.10"
+
+dependencies = [
+    "pdfplumber",
+    "pydantic",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
