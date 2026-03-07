@@ -8,11 +8,21 @@ table_area_ratio_threshold: 0.25
 
 multi_column_gutter_threshold: 30.0
 
+high_density_threshold: 0.01
+
 min_confidence_threshold: 0.85
 
 max_doc_budget_usd: 0.05
 
+max_cost_per_doc: 0.05
+
 cost_per_1k_tokens_vlm: 0.0001
+
+max_list_tokens: 200
+
+tokens_per_page_estimate: 1000
+
+header_regex_max_length: 50
 
 domain_keywords:
   financial:
