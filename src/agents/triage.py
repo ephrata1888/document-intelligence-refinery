@@ -48,7 +48,7 @@ class KeywordDomainClassifier(BaseDomainClassifier):
 class TriageAgent:
     """Agent responsible for profiling a corpus of PDF documents."""
 
-    def __init__(self, config_path: Path | str = "config/extraction_rules.yaml"):
+    def __init__(self, config_path: Path | str = "rubric/extraction_rules.yaml"):
         self.config = self._load_config(config_path)
         self.domain_classifier = KeywordDomainClassifier(
             self.config.get("domain_keywords", {})
