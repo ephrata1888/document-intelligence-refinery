@@ -10,6 +10,7 @@ class PageIndex(BaseModel):
     page_range: tuple[int, int] = Field(..., description="Start and end page numbers (inclusive)")
     child_sections: List[PageIndexRef] = Field(default_factory=list, description="Nested subsections")
     entities: List[str] = Field(default_factory=list, description="Named entities mentioned in this section")
+    data_types_present: List[str] = Field(default_factory=list, description="Types of data/chunks found in this section")
     summary: str = Field(..., description="Brief summary of the section content")
 
-PageIndex.update_forward_refs()
+PageIndex.model_rebuild()

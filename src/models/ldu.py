@@ -1,5 +1,5 @@
 from pydantic import BaseModel, Field
-from typing import List, Dict
+from typing import List, Dict, Any
 
 class LDU(BaseModel):
     """Logical Document Unit: A semantically coherent chunk of content from the document."""
@@ -11,3 +11,4 @@ class LDU(BaseModel):
     parent_section: str = Field(..., description="Title or identifier of the parent section")
     token_count: int = Field(..., description="Approximate number of tokens in the content")
     content_hash: str = Field(..., description="SHA256 hash of the content for integrity checking")
+    metadata: Dict[str, Any] = Field(default_factory=dict, description="Additional metadata such as captions, cross_refs, section info")
