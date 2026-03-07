@@ -1,22 +1,28 @@
-{"file_name": "2013-E.C-Assigned-regular-budget-and-expense.pdf", "strategy": "C", "confidence": 0.9499999999999998, "time": 0.0017840862274169922, "cost": 0.00030000000000000003}
-{"file_name": "2013-E.C-Audit-finding-information.pdf", "strategy": "C", "confidence": 0.9499999999999998, "time": 0.0015163421630859375, "cost": 0.00030000000000000003}
-{"file_name": "2013-E.C-Procurement-information.pdf", "strategy": "C", "confidence": 0.9499999999999998, "time": 0.0014064311981201172, "cost": 0.00030000000000000003}
-{"file_name": "2018_Audited_Financial_Statement_Report.pdf", "strategy": "C", "confidence": 0.9499999999999998, "time": 0.0027132034301757812, "cost": 0.00030000000000000003}
-{"file_name": "2019_Audited_Financial_Statement_Report.pdf", "strategy": "C", "confidence": 0.9499999999999998, "time": 0.0016345977783203125, "cost": 0.00030000000000000003}
-{"file_name": "2020_Audited_Financial_Statement_Report.pdf", "strategy": "C", "confidence": 0.9499999999999998, "time": 0.002215147018432617, "cost": 0.00030000000000000003}
-{"file_name": "2021_Audited_Financial_Statement_Report.pdf", "strategy": "C", "confidence": 0.9499999999999998, "time": 0.0020563602447509766, "cost": 0.00030000000000000003}
-{"file_name": "2022_Audited_Financial_Statement_Report.pdf", "strategy": "C", "confidence": 0.9499999999999998, "time": 0.0016682147979736328, "cost": 0.00030000000000000003}
-{"file_name": "Audit Report - 2023.pdf", "strategy": "C", "confidence": 0.9500000000000016, "time": 0.06807303428649902, "cost": 0.0095}
-{"file_name": "CBE Annual Report 2008-9 .pdf", "strategy": "C", "confidence": 0.9499999999999995, "time": 0.01227879524230957, "cost": 0.0032}
-{"file_name": "CBE Annual Report 2009-10.pdf", "strategy": "C", "confidence": 0.9499999999999998, "time": 0.014645576477050781, "cost": 0.0038}
-{"file_name": "CBE Annual Report 2010-11.pdf", "strategy": "C", "confidence": 0.950000000000001, "time": 0.026393890380859375, "cost": 0.006200000000000001}
-{"file_name": "CBE Annual Report 2011-12.pdf", "strategy": "C", "confidence": 0.9500000000000011, "time": 0.026974916458129883, "cost": 0.0063}
-{"file_name": "CBE Annual Report 2013-14.pdf", "strategy": "C", "confidence": 0.9499999999999995, "time": 0.01173853874206543, "cost": 0.0033}
-{"file_name": "CBE Annual Report 2014-15.pdf", "strategy": "C", "confidence": 0.9499999999999995, "time": 0.010833024978637695, "cost": 0.003}
-{"file_name": "CBE Annual Report 2015-16.pdf", "strategy": "C", "confidence": 0.9499999999999995, "time": 0.012099742889404297, "cost": 0.0034000000000000002}
-{"file_name": "CBE Annual Report 2015-16_1.pdf", "strategy": "C", "confidence": 0.9499999999999995, "time": 0.012273788452148438, "cost": 0.0034000000000000002}
-{"file_name": "ETHIO_RE_AT_A_GLANCE_2023_24.pdf", "strategy": "C", "confidence": 0.0, "time": 0.0016188621520996094, "cost": 0.0}
-{"file_name": "EthSwitch-Annual-Report-2019.pdf", "strategy": "C", "confidence": 0.9500000000000012, "time": 0.040402889251708984, "cost": 0.007}
-{"file_name": "Ethswitch-Annual-report-2020.2021_.pdf", "strategy": "C", "confidence": 0.9500000000000016, "time": 0.2044696807861328, "cost": 0.0091}
-{"file_name": "Security_Vulnerability_Disclosure_Standard_Procedure_1.pdf", "strategy": "C", "confidence": 0.9499999999999997, "time": 0.0049152374267578125, "cost": 0.0015}
-{"file_name": "Security_Vulnerability_Disclosure_Standard_Procedure_2.pdf", "strategy": "C", "confidence": 0.9499999999999997, "time": 0.005059719085693359, "cost": 0.0015}
+{"file_name": "20191010_Pharmaceutical-Manufacturing-Opportunites-in-Ethiopia_VF.pdf", "strategy": "B", "confidence": 0.9499999999999997, "time": 20.728891134262085, "cost": 0.0, "escalation_reason": null}
+{"file_name": "Annual_Report_JUNE-2017.pdf", "strategy": "B", "confidence": 0.9499999999999996, "time": 25.54488182067871, "cost": 0.0, "escalation_reason": null}
+{"file_name": "Annual_Report_JUNE-2018.pdf", "strategy": "B", "confidence": 0.9499999999999996, "time": 23.60670018196106, "cost": 0.0, "escalation_reason": null}
+{"file_name": "Annual_Report_JUNE-2019.pdf", "strategy": "B", "confidence": 0.9499999999999996, "time": 39.10973501205444, "cost": 0.0, "escalation_reason": null}
+{"file_name": "Annual_Report_JUNE-2020.pdf", "strategy": "B", "confidence": 0.9499999999999996, "time": 19.766552448272705, "cost": 0.0, "escalation_reason": null}
+{"file_name": "Annual_Report_JUNE-2021.pdf", "strategy": "B", "confidence": 0.9499999999999996, "time": 22.433201789855957, "cost": 0.0, "escalation_reason": null}
+{"file_name": "Annual_Report_JUNE-2022.pdf", "strategy": "B", "confidence": 0.9499999999999996, "time": 16.95757532119751, "cost": 0.0, "escalation_reason": null}
+{"file_name": "Annual_Report_JUNE-2023.pdf", "strategy": "B", "confidence": 0.9499999999999996, "time": 23.723745822906494, "cost": 0.0, "escalation_reason": null}
+{"file_name": "CBE Annual Report 2006-7 .pdf", "strategy": "B", "confidence": 0.9499999999999996, "time": 35.72387361526489, "cost": 0.0, "escalation_reason": null}
+{"file_name": "CBE Annual Report 2012-13.pdf", "strategy": "B", "confidence": 0.9499999999999996, "time": 23.342209339141846, "cost": 0.0, "escalation_reason": null}
+{"file_name": "CBE Annual Report 2016-17.pdf", "strategy": "B", "confidence": 0.9499999999999996, "time": 25.51238441467285, "cost": 0.0, "escalation_reason": null}
+{"file_name": "CBE Annual Report 2017-18.pdf", "strategy": "B", "confidence": 0.9499999999999996, "time": 20.447660446166992, "cost": 0.0, "escalation_reason": null}
+{"file_name": "CBE Annual Report 2018-19.pdf", "strategy": "B", "confidence": 0.9499999999999996, "time": 22.358281135559082, "cost": 0.0, "escalation_reason": null}
+{"file_name": "CBE ANNUAL REPORT 2023-24.pdf", "strategy": "B", "confidence": 0.9499999999999996, "time": 19.802854776382446, "cost": 0.0, "escalation_reason": null}
+{"file_name": "Company_Profile_2024_25.pdf", "strategy": "B", "confidence": 0.9499999999999996, "time": 16.871047973632812, "cost": 0.0, "escalation_reason": null}
+{"file_name": "Consumer Price Index August 2025.pdf", "strategy": "B", "confidence": 0.9499999999999998, "time": 57.83093595504761, "cost": 0.0, "escalation_reason": null}
+{"file_name": "Consumer Price Index July 2025.pdf", "strategy": "B", "confidence": 0.9499999999999998, "time": 18.239766120910645, "cost": 0.0, "escalation_reason": null}
+{"file_name": "Consumer Price Index June 2025.pdf", "strategy": "B", "confidence": 0.9499999999999998, "time": 44.26043486595154, "cost": 0.0, "escalation_reason": null}
+{"file_name": "Consumer Price Index March 2025.pdf", "strategy": "B", "confidence": 0.9499999999999998, "time": 17.797067403793335, "cost": 0.0, "escalation_reason": null}
+{"file_name": "Consumer Price Index May 2025.pdf", "strategy": "B", "confidence": 0.9499999999999998, "time": 20.392742395401, "cost": 0.0, "escalation_reason": null}
+{"file_name": "Consumer Price Index September 2025.pdf", "strategy": "B", "confidence": 0.9499999999999998, "time": 20.385377168655396, "cost": 0.0, "escalation_reason": null}
+{"file_name": "Consumer Price Index, April 2025.pdf", "strategy": "B", "confidence": 0.9499999999999998, "time": 17.80303144454956, "cost": 0.0, "escalation_reason": null}
+{"file_name": "EthSwitch-10th-Annual-Report-202324.pdf", "strategy": "B", "confidence": 0.9499999999999996, "time": 20.34157371520996, "cost": 0.0, "escalation_reason": null}
+{"file_name": "ETHSWITCH-Annual-Report-202122.pdf", "strategy": "B", "confidence": 0.9499999999999996, "time": 22.48850178718567, "cost": 0.0, "escalation_reason": null}
+{"file_name": "ETS-Annual-Report-2023_2024.pdf", "strategy": "B", "confidence": 0.9499999999999996, "time": 24.247094869613647, "cost": 0.0, "escalation_reason": null}
+{"file_name": "ETS_Annual_Report_2024_2025.pdf", "strategy": "B", "confidence": 0.9499999999999996, "time": 22.178502798080444, "cost": 0.0, "escalation_reason": null}
+{"file_name": "fta_performance_survey_final_report_2022.pdf", "strategy": "B", "confidence": 0.9499999999999996, "time": 26.33424186706543, "cost": 0.0, "escalation_reason": null}
+{"file_name": "tax_expenditure_ethiopia_2021_22.pdf", "strategy": "B", "confidence": 0.9499999999999996, "time": 26.206215381622314, "cost": 0.0, "escalation_reason": null}

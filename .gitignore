@@ -14,16 +14,3 @@ data/
 # Ignore everything in profiles
 .refinery/profiles/*
 
-# But track only these 12 files
-!.refinery/profiles/2013-E.C-Assigned-regular-budget-and-expense.json
-!.refinery/profiles/2013-E.C-Audit-finding-information.json
-!.refinery/profiles/2013-E.C-Procurement-information.json
-!.refinery/profiles/2018_Audited_Financial_Statement_Report.json
-!.refinery/profiles/2019_Audited_Financial_Statement_Report.json
-!.refinery/profiles/20191010_Pharmaceutical-Manufacturing-Opportunites-in-Ethiopia_VF.json
-!.refinery/profiles/Annual_Report_JUNE-2017.json
-!.refinery/profiles/CBE Annual Report 2016-17.json
-!.refinery/profiles/Company_Profile_2024_25.json
-!.refinery/profiles/Consumer Price Index August 2025.json
-!.refinery/profiles/Consumer Price Index July 2025.json
-!.refinery/extraction_ledger.jsonl
